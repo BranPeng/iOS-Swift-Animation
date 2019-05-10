@@ -3,7 +3,9 @@
 # iOS Swift动画框架
 
 ### [No.1 Lottie](https://github.com/airbnb/lottie-ios)
-Airbnb 开源的用于渲染 AE 矢量动画的动画框架，有多平台版本，通过 AE 插件直接将动画导出为 json 文件在客户端使用，将动画功能实现完全交还给设计师，从此告别耗费性能的帧动画。
+Airbnb 开源的用于渲染 AE 矢量动画的动画框架，有多平台版本，通过 AE 插件直接将动画导出为 json 文件在客户端使用，将动画功能实现完全交还给设计师，从此告别耗费性能的帧动画。  
+[airbnb](http://airbnb.io/lottie/#/ios?id=ios-sample-app)  
+[LottieFiles](https://lottiefiles.com/)  
 
 ![image](https://github.com/airbnb/lottie-ios/blob/master/_Gifs/Examples1.gif)
 ![image](https://github.com/airbnb/lottie-ios/blob/master/_Gifs/Examples2.gif)
